@@ -29,7 +29,7 @@ Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon m
 
 * Product with most helpful votes: `Minecraft with 2589 helpful votes` & Product with least helpful votes: `Anker iPhoneSE/iPhone5S/iPhone5C/iPhone5 with 1 helpful votes`
 
-* However `Anker iPhone SE/iPhone 5S/iPhone 5C/iPhone 5` product has 5 star rating. They have 20+ similar product names with different helpful votes, star-rating, and the total number of votes. For some reason, I find out that a similar product with a high number of helpful votes with the highest star-rating has opted out in the Amazon Vine system. I am unsure of why this happens. So, in my analysis, it is not a completely reliable system. Customers need to research more about the item they want before making decisions. 
+* However `Anker iPhone SE/iPhone 5S/iPhone 5C/iPhone 5` product has 5 star rating. They have 20+ similar product names with different helpful votes, star-rating, and the total number of votes. For some reason, I find out that a similar product with a high number of helpful votes and the highest star-rating has opted out in the Amazon Vine system. I am unsure of this information. In my analysis, it is not a completely reliable system. Customers need to research more about the item they want before making decisions. 
 
 * Vine Results: Are the reviews reliable or not? 
 Yes. For this dataset, a product with the most reviews received the highest star rating and helpful votes. Product with fewer reviews received the lowest helpful votes. This information also tells us that it is not the best-selling item. For this case, I think the Vine Program is trustworthy. Somehow, as I stated above, there are some cases where exceptions exist.
